@@ -2,7 +2,7 @@
 - 👀 I’m interested in Remote Control solutions 
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on Home automation solutions using MQTT and Red Node
-- 📫 How to reach me:  You can contact me via johannes.marko <..at..> outlook.de
+- 📫 How to reach me:  You can contact me via johannes_marko <..at..> yahoo.de
 
 <!---
 trapperjoe/trapperjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
